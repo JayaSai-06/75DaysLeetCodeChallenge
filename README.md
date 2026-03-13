@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0875-koko-eating-bananas](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
