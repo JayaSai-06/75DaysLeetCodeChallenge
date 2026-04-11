@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0228-summary-ranges) |
+| [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -35,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
