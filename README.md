@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0228-summary-ranges) |
 | [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/JayaSai-06/75daysLeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
